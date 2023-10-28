@@ -1,2 +1,2 @@
 # ussd coding
-this is the same code in php
+this is the same ussd code in php but in python
